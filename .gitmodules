@@ -1,0 +1,3 @@
+[submodule "LaraPress"]
+	path = LaraPress
+	url = git@github.com:ha3an-118/LaraPress.git
